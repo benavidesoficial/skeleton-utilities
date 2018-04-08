@@ -1,0 +1,22 @@
+{
+  "name": "@skeleton/utility",
+  "version": "0.0.1",
+  "description": "Utilities for Skeleton Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benavidesoficial/skeleton-utility.git"
+  },
+  "author": "Miguel Benavides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benavidesoficial/skeleton-utility/issues"
+  },
+  "homepage": "https://github.com/benavidesoficial/skeleton-utility#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
